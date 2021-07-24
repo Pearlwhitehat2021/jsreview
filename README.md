@@ -5,16 +5,16 @@
  JavaScript can understand different kinds of data like numbers and string. 
 Try entering a number in the console:
 ```
-> 2
+> 2,2.16,1/2//integers,decimals,exponential form
 ```
 Similarly, try entering any string in the console:
 
 ```
-> "Hello world"
+> "Hello world"// aplhabets  or characters that are combined together in the form of words.
 ``` 
 Remember, strings are enclosed by quotes
 
-## Variables
+## Variables//containers for storing values
 
 You can store data inside containers (variables) using "var"
 
@@ -50,7 +50,7 @@ You can also convert a string into a number:
 parseInt("123")
 ```
 
-## Arithmetic Operations
+## Arithmetic Operations yVel *=0.98
 You can use arithmetic operations on numbers using arithmetic operators (+ , - , /, *, %).
 
 _Note: Remind students that modulo(%) sign gives you a remainder between two numbers._
@@ -60,17 +60,18 @@ You can try doing different arithmetic operations on the console.
 2+3
 ```
 ```
-2-3
+2-3v//subtraxtion
 ```
 ```
-5*7
+5*7//multiplication of the value
 ```
 ```
-36/12
+12/4=3//it gives you the division
 ```
 ```
-12%5
+12%4=0// it gives you remiander value
 ```
+4**2//it gives exponential power
 Try using '+' arithmetic operator on strings and guess what will happen:
 
 ```
